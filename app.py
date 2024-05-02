@@ -6,7 +6,7 @@ def chat(msg):
     openai.api_type="azure"
     openai.api_version = "2023-05-15"
     prediction = openai.ChatCompletion.create(
-                api_key= st.secrets["api"],
+                api_key= st.secrets["API"],
                 api_base="https://sinfonia.openai.azure.com/" ,
                 engine="sinfoniaOpenai",
                 temperature= 0.5,
