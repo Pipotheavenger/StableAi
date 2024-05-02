@@ -130,7 +130,7 @@ def main():
     )
 
     # Header del chatbot
-    st.sidebar.image("C:/Users/sebas/Escritorio/Magister/Investigacion/chatbot/image.png", width=100, output_format='auto', use_column_width=True)
+    st.sidebar.image("https://media.discordapp.net/attachments/1079829553670799450/1235445716319731772/image.png?ex=663465fc&is=6633147c&hm=9c438ddc772ea81c5b6165a30a8d3e4916fd641951c030c339befeeb3a90f8a7&=&format=webp&quality=lossless&width=475&height=475", width=100, output_format='auto', use_column_width=True)
     st.sidebar.title("SIA (Stable IA)")
     st.sidebar.header("🌟 ¡Hola! Bienvenido a Stable®")
     st.sidebar.write("¿Listo para ser residente de un mundo diseñado para enriquecer tu vida con oportunidades emocionantes? Descargar Stable es completamente gratis y es tu primer paso hacia una vida llena de aventuras. ❤️ ¡Dime cómo puedo ayudarte hoy!")
