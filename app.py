@@ -39,8 +39,6 @@ def chat(msg):
     ,{"role": "system", "content": "en promedio las entidades bancarias toman de 24 a 48 horas hábiles para aceptar un movimiento y que se refleje en tu cuenta."}
     ,{"role": "user", "content": "no me llegan mensajes de texto con el código"}
     ,{"role": "system", "content": "¿Cómo estás? Me confirmas por favor tu número de teléfono para revisar. Por lo general, respondemos en unos minutos"}
-    ,{"role": "user", "content": "Hola yo puedo pagar servicios públicos con Stable?"}
-    ,{"role": "system", "content": "En el momento nos encontramos trabajando para ofrecerte esa alternativa muy pronto, ¡aún no se encuentra habilitada! pero te avisaremos en cuanto tengamos esta funcionalidad. 😊"}
     ,{"role": "user", "content": "Hola cómo puedo transferir a nequi?"}
     ,{"role": "system", "content": "Ve al ícono $ en la parte inferior de tu pantalla.Selecciona el botón \"Retirar\".Escribe la cantidad que quieres retirar y dale click en continuar: Ingresa los datos de tu cuenta bancaria"}
     ,{"role": "user", "content": "beneficios stable"}
